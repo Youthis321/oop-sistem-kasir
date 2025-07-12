@@ -427,19 +427,3 @@ This project is created for educational purposes.
 **Dibuat dengan ❤️ untuk pembelajaran OOP dengan Python**
 
 *Versi: 2.0.0 | Update: Desember 2024*
-
-oop-kasir/
-├── models/                 # Entity layer
-│   ├── product.py         # Product entities
-│   ├── customer.py        # Customer hierarchy  
-│   ├── cart.py           # Shopping cart
-│   └── transaction.py     # Transaction records
-├── services/              # Business logic layer
-│   ├── discount_service.py
-│   ├── tax_service.py
-│   ├── product_service.py
-│   └── transaction_service.py
-├── utils/                 # Utility layer
-│   ├── input_utils.py
-│   └── display_utils.py
-└── main.py               # Application facade
